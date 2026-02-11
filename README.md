@@ -4,13 +4,11 @@ Data Analyst | SQL | Python
 ----------------------------------
 
 ### Contact
-📧 mariatamashina@yandex.ru  
+📧 Email: mariatamashina@yandex.ru  
 💬 Telegram: [ray_rainey](https://t.me/ray_rainey)
 
 ### About me:
-
-I am a data analyst focused on SQL and Python.  
-I enjoy working with data, exploring patterns, and turning raw information into meaningful insights.
+I'm a student at Peter the Great St. Petersburg Polytechnic University, studying Applied Informatics. Data analyst focused on SQL and Python. Enjoy working with data, exploring patterns, and turning raw information into meaningful insights.
 
 ### Currently improving practical skills through hands-on projects:
 
@@ -19,11 +17,12 @@ I enjoy working with data, exploring patterns, and turning raw information into 
 • Exploratory Data Analysis (EDA)  
 • Data visualization and basic statistics 
 
-### Looking to collaborate on:
+### Knowledge & soft skills:
 
-• Data analysis projects  
-• SQL and Python analytics tasks  
-• Data cleaning, exploratory analysis, and automation scripts  
+• Statistics and probability  
+• Exploratory data analysis  
+• Analytical thinking and problem-solving  
+• Working with large datasets
 
 ---
 
@@ -33,11 +32,12 @@ I enjoy working with data, exploring patterns, and turning raw information into 
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" /></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://jupyter.org/assets/homepage/main-logo.svg" width="36" height="36" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="36" height="36" /></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://numpy.org/images/logo.svg" width="36" height="36" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" /></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jupyter-colored.svg" width="36" height="36" /></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" /></a>
 </p>
+
 
 ### GitHub Stats
 
